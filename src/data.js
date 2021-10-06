@@ -1,3 +1,4 @@
+// comment added
 const DEFAULT_OPTIONS = [
   {
     name: "Brightness",
