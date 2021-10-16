@@ -62,7 +62,7 @@ function App() {
             onChange={imageUpload}
           /> */}
           <img
-            src="https://www.freelogodesign.org/file/app/client/thumb/1850484f-8e1e-4067-9f8b-cda26827f537_200x200.png?1607851909950"
+            src="https://user-images.githubusercontent.com/55646472/102017732-b79b7100-3d8e-11eb-93a4-7bc209701bcd.PNG"
 			alt="PhotoEditor"
             style={{ height: "270px" }}
 			
